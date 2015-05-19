@@ -1,0 +1,886 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        51.48,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Andrew Benbow",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Andrew Benbow<br>\n<b>Role:</b> WooCommerce Support Team Lead<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@chromeorange\" target=\"_blank\">@chromeorange</a>\n</div>",
+      "Role": "WooCommerce Support Team Lead",
+      "Twitter": "@chromeorange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -89.085791,
+        42.270254,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Andrew Wikel",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Andrew Wikel<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@slash1andy\" target=\"_blank\">@slash1andy</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@slash1andy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.09824,
+        51.545752,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Barry Kooij",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Barry Kooij<br>\n<b>Role:</b> WooCommerce Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@CageNL\" target=\"_blank\">@CageNL</a>\n</div>",
+      "Role": "WooCommerce Developer",
+      "Twitter": "@CageNL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        100.633111,
+        13.724601,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Bryce Adams",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Bryce Adams<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@bryceadams\" target=\"_blank\">@bryceadams</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@bryceadams"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -46.657435,
+        -23.635553,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Claudio Sanches",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Claudio Sanches<br>\n<b>Role:</b> WooThemes Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@claudiosmweb\" target=\"_blank\">@claudiosmweb</a>\n</div>",
+      "Role": "WooThemes Developer",
+      "Twitter": "@claudiosmweb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.156082,
+        34.687679,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Caleb Burks",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Caleb Burks<br>\n<b>Role:</b> WooCommerce Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@WPprodigy\" target=\"_blank\">@WPprodigy</a>\n</div>",
+      "Role": "WooCommerce Support Ninja",
+      "Twitter": "@WPprodigy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.450158,
+        -33.978424,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Cobus Bester",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Cobus Bester<br>\n<b>Role:</b> Designer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@cobusss\" target=\"_blank\">@cobusss</a>\n</div>",
+      "Role": "Designer",
+      "Twitter": "@cobusss"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.492537,
+        53.385111,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Dan Johnson",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Dan Johnson<br>\n<b>Role:</b> Sensei Product Lead<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@danjohnsonart\" target=\"_blank\">@danjohnsonart</a>\n</div>",
+      "Role": "Sensei Product Lead",
+      "Twitter": "@danjohnsonart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        19.132621,
+        50.851173,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Daniel Dudzic",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Daniel Dudzic<br>\n<b>Role:</b> Support Technician<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@danieldudzic\" target=\"_blank\">@danieldudzic</a>\n</div>",
+      "Role": "Support Technician",
+      "Twitter": "@danieldudzic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.297144,
+        39.070078,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Danny Santoro",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Danny Santoro<br>\n<b>Role:</b> Special Operative<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@danny_santoro\" target=\"_blank\">@danny_santoro</a>\n</div>",
+      "Role": "Special Operative",
+      "Twitter": "@danny_santoro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.574516,
+        -33.883362,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Dominique Rossouw",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Dominique Rossouw<br>\n<b>Role:</b> Office Manager<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@domdom84\" target=\"_blank\">@domdom84</a>\n</div>",
+      "Role": "Office Manager",
+      "Twitter": "@domdom84"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.619817,
+        -33.958264,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Dwain Maralack",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Dwain Maralack<br>\n<b>Role:</b> Ninjaneer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@dwainm\" target=\"_blank\">@dwainm</a>\n</div>",
+      "Role": "Ninjaneer",
+      "Twitter": "@dwainm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.7231,
+        30.233986,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Erica Kuschel",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Erica Kuschel<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@overyonderlust\" target=\"_blank\">@overyonderlust</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@overyonderlust"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.671249,
+        -33.873182,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Gerhard Potgieter",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Gerhard Potgieter<br>\n<b>Role:</b> Lead Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@diekloon\" target=\"_blank\">@diekloon</a>\n</div>",
+      "Role": "Lead Developer",
+      "Twitter": "@diekloon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.479651,
+        -33.948186,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Gareth Allison",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Gareth Allison<br>\n<b>Role:</b> Junior Designer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@garethisatwit\" target=\"_blank\">@garethisatwit</a>\n</div>",
+      "Role": "Junior Designer",
+      "Twitter": "@garethisatwit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.457525,
+        -33.927515,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Hugh Lashbrooke",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Hugh Lashbrooke<br>\n<b>Role:</b> Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@hlashbrooke\" target=\"_blank\">@hlashbrooke</a>\n</div>",
+      "Role": "Developer",
+      "Twitter": "@hlashbrooke"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.318431,
+        52.533879,
+        0
+      ]
+    },
+    "properties": {
+      "name": "James Koster",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> James Koster<br>\n<b>Role:</b> Designer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@jameskoster\" target=\"_blank\">@jameskoster</a>\n</div>",
+      "Role": "Designer",
+      "Twitter": "@jameskoster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.457706,
+        -33.927552,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Jeff Pearce",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Jeff Pearce<br>\n<b>Role:</b> Senior Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@jeffikus\" target=\"_blank\">@jeffikus</a>\n</div>",
+      "Role": "Senior Developer",
+      "Twitter": "@jeffikus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.457546,
+        -33.927203,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Job Thomas",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Job Thomas<br>\n<b>Role:</b> Education and Training Manager<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@jobtex\" target=\"_blank\">@jobtex</a>\n</div>",
+      "Role": "Education and Training Manager",
+      "Twitter": "@jobtex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.422092,
+        -33.929413,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Joel Bronkowski",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Joel Bronkowski<br>\n<b>Role:</b> Business Development Manager<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@joelbronkowski\" target=\"_blank\">@joelbronkowski</a>\n</div>",
+      "Role": "Business Development Manager",
+      "Twitter": "@joelbronkowski"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.771128,
+        30.38362,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Kai Suess",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Kai Suess<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@tarvalian\" target=\"_blank\">@tarvalian</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@tarvalian"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.423981,
+        -33.939133,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Louise Shone",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Louise Shone<br>\n<b>Role:</b> Account Manager<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@louise_shone\" target=\"_blank\">@louise_shone</a>\n</div>",
+      "Role": "Account Manager",
+      "Twitter": "@louise_shone"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.700884,
+        58.965525,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Magnus Jepson",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Magnus Jepson<br>\n<b>Role:</b> Co-Founder<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@mjepson\" target=\"_blank\">@mjepson</a>\n</div>",
+      "Role": "Co-Founder",
+      "Twitter": "@mjepson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.187981,
+        38.782546,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Maria Scarpello",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Maria Scarpello<br>\n<b>Role:</b> Internal Community Manager<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@TheRoamingPint\" target=\"_blank\">@TheRoamingPint</a>\n</div>",
+      "Role": "Internal Community Manager",
+      "Twitter": "@TheRoamingPint"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.10488,
+        51.498686,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Marina Pape",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Marina Pape<br>\n<b>Role:</b> Social Media Manager<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@marinapape\" target=\"_blank\">@marinapape</a>\n</div>",
+      "Role": "Social Media Manager",
+      "Twitter": "@marinapape"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.474218,
+        -33.980389,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Mark Forrester",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Mark Forrester<br>\n<b>Role:</b> Co-Founder<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@mark_forrester\" target=\"_blank\">@mark_forrester</a>\n</div>",
+      "Role": "Co-Founder",
+      "Twitter": "@mark_forrester"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.508428,
+        -33.865833,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Matty Cohen",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Matty Cohen<br>\n<b>Role:</b> Chief Product Officer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@mattyza\" target=\"_blank\">@mattyza</a>\n</div>",
+      "Role": "Chief Product Officer",
+      "Twitter": "@mattyza"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.294985,
+        47.613358,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Michael Tieso",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Michael Tieso<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@michaeltieso\" target=\"_blank\">@michaeltieso</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@michaeltieso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.173349,
+        52.64765,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Mike Jolley",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Mike Jolley<br>\n<b>Role:</b> Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@mikejolley\" target=\"_blank\">@mikejolley</a>\n</div>",
+      "Role": "Developer",
+      "Twitter": "@mikejolley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.191607,
+        39.758948,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Mike Krapf",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Mike Krapf<br>\n<b>Role:</b> Chief Happiness Officer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@mikeykrapf\" target=\"_blank\">@mikeykrapf</a>\n</div>",
+      "Role": "Chief Happiness Officer",
+      "Twitter": "@mikeykrapf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.771787,
+        28.019417,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Mindy Postoff",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Mindy Postoff<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@bounding_steps\" target=\"_blank\">@bounding_steps</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@bounding_steps"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.304707,
+        41.500143,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Nicola Mustone",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Nicola Mustone<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@gnabbo\" target=\"_blank\">@gnabbo</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@gnabbo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.989868,
+        39.780323,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Patrick Rauland",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Patrick Rauland<br>\n<b>Role:</b> WooCommerce Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@bftrick\" target=\"_blank\">@bftrick</a>\n</div>",
+      "Role": "WooCommerce Developer",
+      "Twitter": "@bftrick"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        77.644073,
+        13.024021,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Praveen Selvasekaran",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Praveen Selvasekaran<br>\n<b>Role:</b> WooCommerce Support Technician<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@spraveenitpro\" target=\"_blank\">@spraveenitpro</a>\n</div>",
+      "Role": "WooCommerce Support Technician",
+      "Twitter": "@spraveenitpro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.430418,
+        48.723657,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Rémi Corson",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Rémi Corson<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@remicorson\" target=\"_blank\">@remicorson</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@remicorson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.290529,
+        33.748491,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Roy Ho",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Roy Ho<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@roykho\" target=\"_blank\">@roykho</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@roykho"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.090494,
+        39.665202,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Ryan Ray",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Ryan Ray<br>\n<b>Role:</b> A/V Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@ryanr14\" target=\"_blank\">@ryanr14</a>\n</div>",
+      "Role": "A/V Ninja",
+      "Twitter": "@ryanr14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.047487,
+        45.351186,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Sean Cull",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Sean Cull<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@seanreloaded\" target=\"_blank\">@seanreloaded</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@seanreloaded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.963426,
+        55.866925,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Stuart Duff",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Stuart Duff<br>\n<b>Role:</b> Support Team Lead<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@stuartduff\" target=\"_blank\">@stuartduff</a>\n</div>",
+      "Role": "Support Team Lead",
+      "Twitter": "@stuartduff"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        99.827957,
+        10.091106,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Sven Hutchinson",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Sven Hutchinson<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@svenhutchinson\" target=\"_blank\">@svenhutchinson</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@svenhutchinson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.420638,
+        40.192942,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Tiago Noronha",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Tiago Noronha<br>\n<b>Role:</b> Developer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@tiagonoronha\" target=\"_blank\">@tiagonoronha</a>\n</div>",
+      "Role": "Developer",
+      "Twitter": "@tiagonoronha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.989103,
+        39.738363,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Thomas Shellberg",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Thomas Shellberg<br>\n<b>Role:</b> WooCommerce Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@tommyshellberg\" target=\"_blank\">@tommyshellberg</a>\n</div>",
+      "Role": "WooCommerce Ninja",
+      "Twitter": "@tommyshellberg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.469447,
+        -34.002511,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Warren Holmes",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Warren Holmes<br>\n<b>Role:</b> Chief Marketing Officer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@warrenholmes\" target=\"_blank\">@warrenholmes</a>\n</div>",
+      "Role": "Chief Marketing Officer",
+      "Twitter": "@warrenholmes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.437589,
+        20.196882,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Will Brubaker",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Will Brubaker<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@webmechanicwill\" target=\"_blank\">@webmechanicwill</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@webmechanicwill"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.024174,
+        36.986425,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Kevin Bates",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Kevin Bates<br>\n<b>Role:</b> Technical Marketer<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@KevinB\" target=\"_blank\">@KevinB</a>\n</div>",
+      "Role": "Technical Marketer",
+      "Twitter": "@KevinB"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -92.988483,
+        45.112415,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Zach Wiesman",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Zach Wiesman<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@zachwiesman\" target=\"_blank\">@zachwiesman</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@zachwiesman"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        27.904395,
+        -32.978205,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Gary Murrayn",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Gary Murrayn<br>\n<b>Role:</b> Product Manager of WooThemes.com<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@garysmurray\" target=\"_blank\">@garysmurray</a>\n</div>",
+      "Role": "Product Manager of WooThemes.com",
+      "Twitter": "@garysmurray"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.247451,
+        49.991862,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Constantin Schneider",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Constantin Schneider<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@conschneider\" target=\"_blank\">@conschneider</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@conschneider"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.369708,
+        37.826002,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Kat Christofer",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Kat Christofer<br>\n<b>Role:</b> Documentation &amp; Pre-Sales Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@katchristofer\" target=\"_blank\">@katchristofer</a>\n</div>",
+      "Role": "Documentation & Pre-Sales Ninja",
+      "Twitter": "@katchristofer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        18.859863,
+        -33.933169,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Riaan Knoetze",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Riaan Knoetze<br>\n<b>Role:</b> Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@tinygiantstudio\" target=\"_blank\">@tinygiantstudio</a>\n</div>",
+      "Role": "Support Ninja",
+      "Twitter": "@tinygiantstudio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.723,
+        30.233985,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Shaun Kuschel",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Shaun Kuschel<br>\n<b>Role:</b> WooCommerce Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@overyonderlust\" target=\"_blank\">@overyonderlust</a>\n</div>",
+      "Role": "WooCommerce Support Ninja",
+      "Twitter": "@overyonderlust"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.546868,
+        36.996295,
+        0
+      ]
+    },
+    "properties": {
+      "name": "Steve Ellemberg",
+      "description": "<div class=\"googft-info-window\">\n<b>Name:</b> Steve Ellemberg<br>\n<b>Role:</b> WooCommerce Support Ninja<br>\n<b>Twitter:</b> <a href=\"http://twitter.com/@stevetested\" target=\"_blank\">@stevetested</a>\n</div>",
+      "Role": "WooCommerce Support Ninja",
+      "Twitter": "@stevetested"
+    }
+  }
+]
