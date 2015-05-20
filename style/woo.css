@@ -22,13 +22,14 @@ a {
 	width: 100%;
 }
 .leaflet-popup-content-wrapper {
-	width: 400px;
+	background: #333;
+	color: #FFF;
 	font-family: 'Merriweather';
 }
-
-.leaflet-popup-content {
-	width: 360px !important;
+.leaflet-popup-tip {
+	background: #333;
 }
+
 
 .leaflet-marker-icon {
 	opacity: 0.8;

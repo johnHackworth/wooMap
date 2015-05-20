@@ -65,6 +65,7 @@ window.Woo.prototype = {
 			} );
 
 			var marker = L.marker( [ person.latitude, person.longitude ], {className:"face", icon: icon} ).addTo( this.map );
+			marker.bindPopup(person.name)
 		}
 	}
 };
