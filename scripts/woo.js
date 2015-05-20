@@ -15,8 +15,14 @@ window.Woo.prototype = {
 			dfd = $.Deferred();
 
 		$.getJSON( 'data/automattic.json', function( json ) {
-			self.people = self.people.concat(json);
-
+			json.forEach( function( woo ) {
+				self.people.push({
+					"name": woo.name,
+					"image": woo.image,
+				 	"latitude": woo.latitude + Math.random() / 10 - Math.random() / 10 ,
+					"longitude": woo.longitude + Math.random() / 10 - Math.random() / 10
+				})
+			});
 			$.getJSON( 'data/wooimages.json', function( images ) {
 				$.getJSON( 'data/woo.json' , function( woos ) {
 					woos.forEach( function( woo ) {
